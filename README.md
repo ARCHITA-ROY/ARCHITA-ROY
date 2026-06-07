@@ -1,176 +1,128 @@
 <h1 align="center">ARCHITA ROY</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=6A5ACD&center=true&vCenter=true&width=900&lines=Offensive+Security;Penetration+Testing;Red+Teaming;Web+Application+Security;Cloud+Security;Security+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Offensive+Security;Penetration+Testing;Red+Teaming;Web+Application+Security;Security+Automation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ARCHITA-ROY">
-    <img src="https://skillicons.dev/icons?i=github" height="50" />
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/archita-roy-21link/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:architaroy21@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://tryhackme.com/p/architaroy21">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ARCHITA-ROY&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=ARCHITA-ROY&style=for-the-badge&color=7C3AED" />
 </p>
 
 ---
 
-## 👾 Operator Console
+## 👾 About Me
 
 ```text
-ROLE      : Cybersecurity Student
-TRACK     : Offensive Security
-FOCUS     : Web • AD • Cloud
-MISSION   : Red Team Operations
-STATUS    : Active
+who    : Archita Roy
+study  : Computer Science
+track  : Offensive Security
+doing  : CTFs • Security Labs • Research
+focus  : Web • Active Directory • Cloud
+target : Red Team Operations
+base   : India
 ```
 
 ---
 
 ## ⚡ Current Focus
 
+```text
+→ Web Application Security
+→ Active Directory Security
+→ Red Teaming
+→ Cloud Security
+→ Security Automation
+```
+
+---
+
+## 🛠 Arsenal
+
 <p align="center">
-<img src="https://img.shields.io/badge/Web_Application_Security-6A5ACD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Active_Directory-483D8B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Red_Teaming-191970?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud_Security-4169E1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Security_Automation-4B0082?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Detection_Engineering-2F4F4F?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell,js,ts,react,nodejs,mongodb,postgresql,docker,git,github,aws,vscode" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Burp_Suite-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Nmap-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Nuclei-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Wireshark-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Metasploit-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/FFUF-7C3AED?style=flat-square" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,powershell,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,docker,linux,git,github,aws,vscode" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ARCHITA-ROY&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHITA-ROY&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ARCHITA-ROY&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🛡 Security Arsenal
+## 🎯 Current Path
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Nuclei-purple?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/OWASP-black?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Metasploit-2C2D72?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/FFUF-red?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Gobuster-green?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Subfinder-darkgreen?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/httpx-grey?style=for-the-badge" />
-
-</p>
+```text
+Security+
+CEH
+PNPT
+CRTO
+OSCP
+```
 
 ---
 
-## 📚 Learning Pipeline
+## 🌐 Connect
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Active_Directory-blueviolet?style=for-the-badge" />
+<a href="https://github.com/ARCHITA-ROY">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
-<img src="https://img.shields.io/badge/API_Security-royalblue?style=for-the-badge" />
+<a href="https://www.linkedin.com/in/archita-roy-21link/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-<img src="https://img.shields.io/badge/Web_Exploitation-indigo?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Cloud_Attack_Paths-slateblue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Threat_Detection-midnightblue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Malware_Analysis-darkslateblue?style=for-the-badge" />
-
-</p>
-
----
-
-## 📊 Live Telemetry
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ARCHITA-ROY&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARCHITA-ROY&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARCHITA-ROY&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievement Matrix
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ARCHITA-ROY&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" />
-</p>
-
----
-
-## 🎖 Certification Radar
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Security+-Pending-blue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/CEH-Pending-purple?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/PNPT-Target-darkblue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/CRTO-Target-indigo?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/OSCP-Long_Term-midnightblue?style=for-the-badge" />
+<a href="mailto:architaroy21@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
 </p>
 
 ---
 
-## 🌐 Domains
+```bash
+archita@security:~$
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Offensive_Security-blueviolet?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Red_Teaming-indigo?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/API_Security-royalblue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Cloud_Security-slateblue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Threat_Hunting-darkslateblue?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/OSINT-midnightblue?style=for-the-badge" />
-
-</p>
-
----
-
-<p align="center">
-<i>Learning • Building • Improving</i>
-</p>
+learn();
+build();
+break();
+improve();
+repeat();
+```
