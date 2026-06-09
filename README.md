@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=2200&pause=300&color=FF69B4&center=true&vCenter=true&width=850&height=70&lines=%E2%9C%A6+Hey%2C+I'm+Archita+Roy+%E2%9C%A6;%E2%9C%A6+Offensive+Security+%E2%9C%A6;%E2%9C%A6+Web+Application+Security+%E2%9C%A6;%E2%9C%A6+Women+In+Cybersecurity+%E2%9C%A6" />
+# 🌸 Hi, I'm Archita Roy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1800&pause=600&color=FF69B4&center=true&vCenter=true&width=900&lines=Offensive+Security+%E2%80%A2+Web+Application+Security+%E2%80%A2+Women+In+Cybersecurity;Active+Directory+%E2%80%A2+CTFs+%E2%80%A2+Security+Research;Building+Skills+One+Challenge+At+A+Time" />
 
 </div>
 
@@ -11,11 +15,13 @@
 ```yaml
 name: Archita Roy
 
+education:
+  - B.Tech Computer Science
+
 focus:
   - Offensive Security
   - Web Application Security
   - Active Directory
-  - Privilege Escalation
   - Network Security
 
 currently_learning:
@@ -23,6 +29,12 @@ currently_learning:
   - Red Team Fundamentals
   - Security Automation
   - Advanced Enumeration
+
+interests:
+  - CTFs
+  - Security Research
+  - Security Tooling
+  - Full Stack Development
 
 goal:
   - Build a career in Offensive Security
@@ -47,9 +59,9 @@ goal:
 
 > Learning Web Exploitation
 
-> Strengthening Linux & Scripting Skills
+> Strengthening Linux Skills
 
-> Studying Real World Attack Paths
+> Studying Real-World Attack Paths
 ```
 
 <br clear="right"/>
@@ -74,10 +86,15 @@ goal:
 
 ```text
 • Reconnaissance
+
 • Enumeration
+
 • Vulnerability Assessment
+
 • Exploitation
+
 • Privilege Escalation
+
 • Post Exploitation
 ```
 
@@ -87,10 +104,15 @@ goal:
 
 ```text
 • OWASP Top 10
+
 • Authentication
+
 • Authorization
+
 • API Security
+
 • Session Management
+
 • Secure Development Practices
 ```
 
@@ -100,10 +122,15 @@ goal:
 
 ```text
 • React
+
 • TypeScript
+
 • Node.js
+
 • MongoDB
+
 • REST APIs
+
 • Full Stack Projects
 ```
 
@@ -137,19 +164,19 @@ goal:
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+    
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+    
 
 <a href="YOUR_TRYHACKME_URL">
 <img src="https://assets.tryhackme.com/img/favicon.png" width="48" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+    
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail" />
