@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2200&pause=1000&color=E8A2C8&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%8C%B8+Hi%2C+I'm+Archita+Roy;%F0%9F%92%BB+Welcome+to+my+GitHub" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2200&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%8C%B8+Hi%2C+I'm+Archita+Roy;%F0%9F%92%BB+Welcome+to+my+GitHub" />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 🌷 <sub>Offensive Security • Web Application Security • Women In Cybersecurity</sub>
+### Offensive Security • Web Application Security • Women In Cybersecurity
 
 </div>
 
