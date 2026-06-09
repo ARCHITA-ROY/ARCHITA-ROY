@@ -1,21 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=FF69B4&text=ARCHITA%20ROY&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Offensive%20Security%20%7C%20Women%20In%20Tech&descAlignY=58"/>
+# ✦ ARCHITA ROY ✦
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Offensive+Security+Enthusiast;Web+Application+Security;Active+Directory+Learner;Building+Projects+%26+Breaking+Things;Women+In+Cybersecurity+%F0%9F%8C%B8" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Offensive+Security;Web+Application+Security;Women+In+Cybersecurity;CTFs+%7C+Labs+%7C+Projects;Building+Skills+One+Challenge+At+A+Time" />
 
 </div>
 
----
+<br>
 
-# 🌸 About Me
+## 🌸 About Me
 
 ```yaml
 name: Archita Roy
-
-role: Cybersecurity Student
 
 focus:
   - Offensive Security
@@ -32,91 +28,90 @@ currently_learning:
 
 goal:
   - Build a career in Offensive Security
-  - Become a Penetration Tester
   - Contribute to Security Research
+  - Keep learning every day
 ```
 
 ---
 
-# 💖 Current Mission
+## 🎯 Current Mission
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA3bWg4YTFvbnhlM3JqMjc2aW90Y3A4em9iZGI0eWJ5MG0yY2NxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDA3bWg4YTFvbnhlM3JqMjc2aW90Y3A4em9iZGI0eWJ5MG0yY2NxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
 ```bash
-> Practicing TryHackMe Labs
+> Solving TryHackMe Labs
 
 > Exploring Active Directory
 
-> Building Full Stack Projects
+> Practicing Enumeration
 
-> Learning Web Application Security
+> Building Security Projects
 
-> Studying Enumeration Methodologies
+> Learning Web Exploitation
 
-> Improving Linux & Scripting Skills
+> Strengthening Linux & Scripting Skills
+
+> Studying Real World Attack Paths
 ```
 
 <br clear="right"/>
 
 ---
 
-# ⚔️ Security Arsenal
+## ⚔️ Security Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,typescript,html,css,nodejs,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,javascript,typescript,nodejs,mongodb,git,github,vscode" />
+
+<br><br>
+
+🛠️ Burp Suite • Nmap • Wireshark • Metasploit • Linux • Git • MongoDB
 
 </div>
 
 ---
 
-# 🌷 Featured Areas
+## 🛡️ Offensive Security
 
-<table>
-<tr>
-
-<td width="33%">
-
-### 🛡️ Offensive Security
-
-- Reconnaissance
-- Enumeration
-- Exploitation
-- Privilege Escalation
-- Post Exploitation
-
-</td>
-
-<td width="33%">
-
-### 🌐 Web Security
-
-- OWASP Top 10
-- Authentication
-- Authorization
-- API Security
-- Vulnerability Assessment
-
-</td>
-
-<td width="33%">
-
-### 💻 Development
-
-- React
-- TypeScript
-- Node.js
-- MongoDB
-- REST APIs
-
-</td>
-
-</tr>
-</table>
+```text
+• Reconnaissance
+• Enumeration
+• Vulnerability Assessment
+• Exploitation
+• Privilege Escalation
+• Post Exploitation
+```
 
 ---
 
-# 📊 GitHub Analytics
+## 🌐 Web Application Security
+
+```text
+• OWASP Top 10
+• Authentication
+• Authorization
+• API Security
+• Session Management
+• Secure Development Practices
+```
+
+---
+
+## 💻 Development
+
+```text
+• React
+• TypeScript
+• Node.js
+• MongoDB
+• REST APIs
+• Full Stack Projects
+```
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -126,7 +121,7 @@ goal:
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -136,7 +131,7 @@ goal:
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -146,20 +141,30 @@ goal:
 
 ---
 
-# 🌸 Connect With Me
+## 🤝 Connect
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/ARCHITA-ROY">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="YOUR_TRYHACKME_LINK">
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png" height="55"/>
+    
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+    
+
+<a href="YOUR_TRYHACKME_URL">
+<img src="https://assets.tryhackme.com/img/favicon.png" width="48" />
+</a>
+
+    
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </div>
@@ -168,18 +173,6 @@ goal:
 
 <div align="center">
 
-### 💕 A quote I live by
-
-> Building skills one lab, one project, and one challenge at a time.
+### ✦ Building skills through labs, projects, and continuous learning ✦
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ARCHITA-ROY&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=FF69B4"/>
