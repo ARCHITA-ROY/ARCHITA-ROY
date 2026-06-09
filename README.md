@@ -1,8 +1,6 @@
 <div align="center">
 
-# ✦ ARCHITA ROY ✦
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Offensive+Security;Web+Application+Security;Women+In+Cybersecurity;CTFs+%7C+Labs+%7C+Projects;Building+Skills+One+Challenge+At+A+Time" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=2200&pause=300&color=FF69B4&center=true&vCenter=true&width=850&height=70&lines=%E2%9C%A6+Hey%2C+I'm+Archita+Roy+%E2%9C%A6;%E2%9C%A6+Offensive+Security+%E2%9C%A6;%E2%9C%A6+Web+Application+Security+%E2%9C%A6;%E2%9C%A6+Women+In+Cybersecurity+%E2%9C%A6" />
 
 </div>
 
@@ -131,16 +129,6 @@ goal:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ARCHITA-ROY&theme=radical&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
@@ -149,19 +137,19 @@ goal:
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-    
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-    
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="YOUR_TRYHACKME_URL">
 <img src="https://assets.tryhackme.com/img/favicon.png" width="48" />
 </a>
 
-    
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://skillicons.dev/icons?i=gmail" />
