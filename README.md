@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🌸 Hi, I'm Archita Roy
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&duration=2200&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&height=70&lines=%F0%9F%8C%B8+Hi%2C+I'm+Archita+Roy;%F0%9F%92%BB+Welcome+to+my+GitHub" />
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=1800&pause=600&color=FF69B4&center=true&vCenter=true&width=900&lines=Offensive+Security+%E2%80%A2+Web+Application+Security+%E2%80%A2+Women+In+Cybersecurity;Active+Directory+%E2%80%A2+CTFs+%E2%80%A2+Security+Research;Building+Skills+One+Challenge+At+A+Time" />
+### Offensive Security • Web Application Security • Women In Cybersecurity
 
 </div>
 
